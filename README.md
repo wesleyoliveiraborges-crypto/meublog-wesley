@@ -26,7 +26,7 @@ O usuário pode clicar em um botão e visualizar uma mensagem dinâmica, demonst
 pagina-web-primeira-interacao/
 │
 ├── index.html
-├── styles.css
+├── style.css
 ├── script.js
 └── README.md
 ```
